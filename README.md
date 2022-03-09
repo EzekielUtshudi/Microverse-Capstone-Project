@@ -12,7 +12,7 @@ The first module capstone project.
 
 ## Live Demo (if available)
 
-[Web Development Course](https://github.com/EzekielUtshudi/Microverse-Capstone-Project)
+[Web Development Course](https://ezekielutshudi.github.io/Microverse-Capstone-Project/)
 
 ## Getting Started
 
