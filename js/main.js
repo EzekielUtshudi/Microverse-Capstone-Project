@@ -1,7 +1,6 @@
 import instructorData from './index.js';
 
-// instructors-section
-
+// instructors
 const grid = document.querySelector('.grid');
 
 function createGridItem({
@@ -34,8 +33,7 @@ if (grid) {
   });
 }
 
-// The hamburger-section
-
+// hamburger
 const btn = document.querySelector('.hamburger');
 const menu = document.querySelector('.navbar');
 
@@ -43,5 +41,3 @@ btn.addEventListener('click', () => {
   btn.classList.toggle('active');
   menu.classList.toggle('open');
 });
-
-

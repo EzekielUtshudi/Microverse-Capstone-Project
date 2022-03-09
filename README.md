@@ -1,10 +1,9 @@
 # Microverse-Capstone-Project
-The module one capstone project.
-# HTML/CSS & JavaScript capstone project - Web Development Course page
+The first module capstone project.
 
 ![](img/demo.png)
 
-> A website  showcasing the available web development course with all instructors.
+> A webpage for online bootcamp with all the contents and instructors.
 
 ## Built With
 
@@ -53,17 +52,17 @@ set up on github pages
 
 ## Authors
 
-👤 **Ezekiel Utshudi**
+👤 **Max The Stranger**
 
 - GitHub: [@EzekielUtshudi](https://github.com/EzekielUtshudi)
 - Twitter: [@UtshudiEzekiel](https://twitter.com/UtshudiEzekiel)
-- LinkedIn: [@UtshudiEzekie](https://twitter.com/UtshudiEzekiel)
+- LinkedIn: [@UtshudiEzekiel](https://www.linkedin.com/in/ezekiel-utshudi-195782162/)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/EzekielUtshudi/Microverse-Capstone-Project/issues/1).
+Feel free to leave a comment [issues page](https://github.com/EzekielUtshudi/Microverse-Capstone-Project/issues).
 
 ## Show your support
 

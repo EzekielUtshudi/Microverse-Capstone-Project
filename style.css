@@ -183,12 +183,12 @@ p {
   align-items: center;
 }
 
-/* Info-bar */
+/* INFO-BAR */
 .info_bar {
   display: none;
 }
 
-/* Header */
+/* HEADER */
 header {
   background: transparent;
 }
@@ -290,7 +290,7 @@ header {
   margin: 30px auto 0;
 }
 
-/* Hero */
+/* HERO */
 .qouted {
   color: var(--primary);
   font-weight: normal;
@@ -317,7 +317,7 @@ header {
   margin-top: 10px;
 }
 
-/* partner */
+/* THE PARTNERS-SECTION */
 .partner {
   display: flex;
   justify-content: center;
@@ -329,7 +329,7 @@ header {
   filter: invert(100%);
 }
 
-/* footer */
+/* FOOTER-SECTION */
 .footer .container {
   display: flex;
   justify-content: space-between;
@@ -360,7 +360,7 @@ header {
   display: block;
 }
 
-/* Program */
+/* PROGRAM-SECTION */
 .program {
   display: flex;
   flex-direction: column;
@@ -413,7 +413,7 @@ header {
   margin-left: 5px;
 }
 
-/* display instructor */
+/* INSTRUCTORS-SECTION */
 .grid {
   display: grid;
   gap: 50px;
@@ -441,7 +441,7 @@ header {
   background: var(--secondary);
 }
 
-/*About us*/
+/* ABOUT US SECTION */
 .history {
   display: flex;
   flex-direction: column;
@@ -476,7 +476,7 @@ header {
   color: var(--white);
 }
 
-/* media queries */
+/* MEDIA QUERIES */
 @media (min-width: 768px) {
   .d_lg_none {
     display: none;
@@ -491,7 +491,7 @@ header {
     border-bottom: 1px dashed transparent;
   }
 
-  /* info */
+  /* INFO-BAR */
   .info_bar {
     display: block;
   }
@@ -512,7 +512,7 @@ header {
     color: var(--primary);
   }
 
-  /* the header-section */
+  /* HEADER */
   header {
     background: var(--white);
     box-shadow: 0 4px 10px 0 rgba(0, 0, 0, 0.1);
@@ -556,7 +556,7 @@ header {
     margin-left: 40px;
   }
 
-  /* Hero-section */
+  /* HERO */
   .page_title {
     font-size: 60px;
     font-weight: bolder;
@@ -567,7 +567,7 @@ header {
     max-width: 75%;
   }
 
-  /* The program section */
+  /* PROGRAM */
   .program {
     flex-direction: row;
     gap: 3px;
@@ -590,13 +590,13 @@ header {
     text-align: center;
   }
 
-  /* Instructors-section */
+  /* INSTRUCTORS */
   .grid {
     grid-template-rows: 1fr 1fr;
     grid-template-columns: 1fr 1fr;
   }
 
-  /* footer */
+  /* FOOTER */
   .footer .container {
     gap: 146px;
   }
@@ -609,7 +609,7 @@ header {
     display: block;
   }
 
-  /* about*/
+  /* ABOUT */
   .history {
     flex-direction: row;
     justify-content: center;
