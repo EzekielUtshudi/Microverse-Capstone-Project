@@ -11,7 +11,7 @@ The first module capstone project.
 - HTML, CSS & JS
 - Hint, Stylelint, Eslint
 
-## Live Demo (if available)
+## Live Demo (https://deploy-preview-2--frabjous-puppy-af8fab.netlify.app/)
 
 [Web Development Course](https://ezekielutshudi.github.io/Microverse-Capstone-Project/)
 
