@@ -12,6 +12,7 @@ The first module capstone project.
 - Hint, Stylelint, Eslint
 
 ## Live Demo (https://deploy-preview-2--frabjous-puppy-af8fab.netlify.app/)
+## Live Demo Video (https://www.loom.com/share/180708f787b042cda3f1498aaea95379)
 
 [Web Development Course](https://ezekielutshudi.github.io/Microverse-Capstone-Project/)
 
